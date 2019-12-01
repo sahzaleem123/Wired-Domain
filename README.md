@@ -1,2 +1,2 @@
 # Wired-Domain
-[Build A Random Quote Machine](https://wired-domain.firebaseapp.com/)
+[Click to visit Website](https://wired-domain.firebaseapp.com/)
